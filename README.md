@@ -46,4 +46,4 @@ Check out some of my pinned projects for more in-depth work, including a fronten
 -->
 ## 📫 Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mr-robert-amoah) or reach out via email at [your-email@example.com](mailto:robertamoah.dev@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mr-robert-amoah) or reach out via email at [robertamoah.dev@gmail.com](mailto:robertamoah.dev@gmail.com).
